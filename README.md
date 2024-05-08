@@ -5,7 +5,7 @@ The program does not involve convoluted logic. just make use of if else branchin
 ![Before Malware Infiltrate](https://raw.githubusercontent.com/firdausmuhammadismail/HideMyWindows/main/before.png)
 
 # Demo
-You can check out my demo [GitHub Pages](https://github.com/firdausmuhammadismail/HideMyWindows/raw/main/demo.mkv)
+You can check out my demo [My Videos](https://github.com/firdausmuhammadismail/HideMyWindows/raw/main/demo.mkv)
 
 # Environment
 > Windows
